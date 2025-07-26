@@ -2,10 +2,6 @@
 
 A physics-based mesh simulation framework combining Graph Neural Networks with Neural ODEs for deformation modeling.
 
-<video src="https://raw.githubusercontent.com/leixinma/MeshODENet/main/evaluation_results/trajectory_evolution.mp4"
-       controls autoplay loop style="max-width:100%; height:auto;">
-</video>
-
 ## Project Structure
 
 ```
