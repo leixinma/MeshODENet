@@ -2,10 +2,18 @@
 
 A physics-based mesh simulation framework combining Graph Neural Networks with Neural ODEs for deformation modeling.
 
+<video src="https://raw.githubusercontent.com/leixinma/MeshODENet/main/evaluation_results/trajectory_evolution.mp4"
+       controls
+       autoplay
+       loop
+       style="max-width:100%; height:auto;">
+</video>
+
+
 ## Project Structure
 
 ```
-MeshODENet_2D_simulation/
+MeshODENet/
 ├── models/                     # Model components
 │   ├── __init__.py            # Module initialization
 │   ├── mlp.py                 # Multi-Layer Perceptron
@@ -143,9 +151,6 @@ Evaluation generates:
 - `evaluation_results/trajectory_analysis.png`: Trajectory visualization
 - `evaluation_results/trajectory_evolution.mp4`: Animated trajectory
 - `evaluation_results/evaluation_report.md`: Complete evaluation report
-<section id="video-demo">
-    <video src="evaluation_results/trajectory_evolution.mp4" controls autoplay loop style="max-width:100%; height:auto;"></video>
-</section>
 
 ## Notes
 
