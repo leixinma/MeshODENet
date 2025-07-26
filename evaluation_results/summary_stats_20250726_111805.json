@@ -1,0 +1,16 @@
+{
+  "mean_position_rmse": 0.0008138110977597534,
+  "std_position_rmse": 5.378318843429498e-05,
+  "mean_position_mae": 0.00047667374019511044,
+  "mean_velocity_rmse": 0.0003343180229421705,
+  "mean_velocity_correlation": 0.7568009495735168,
+  "total_inference_time": 5.227200984954834,
+  "avg_inference_time": 1.0454401969909668,
+  "num_trajectories": 5,
+  "avg_time_steps": 400.0,
+  "model_config": {
+    "hidden_dim": 128,
+    "num_layers": 1,
+    "time_step_length": 0.1
+  }
+}

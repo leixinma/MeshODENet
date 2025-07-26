@@ -1,0 +1,11 @@
+{
+  "model_name": "MeshODENet_nl1_bs1_hd128_ep600_wd0.0005_lr0.0001_seg1_vv1",
+  "total_training_time": 37089.77176570892,
+  "total_epochs": 600,
+  "best_test_loss": 0.009970813989639282,
+  "final_train_loss": 0.010375407245010137,
+  "final_test_loss": 0.010663586979111036,
+  "final_lr": 1e-06,
+  "model_path": "./checkpoints/MeshODENet_nl1_bs1_hd128_ep600_wd0.0005_lr0.0001_seg1_vv1_best.pt",
+  "timestamp": "2025-07-26T03:50:24.089943"
+}

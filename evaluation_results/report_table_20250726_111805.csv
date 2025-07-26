@@ -1,0 +1,6 @@
+Metric,Mean,Std
+Position RMSE,0.000814,0.000054
+Position MAE,0.000477,-
+Velocity RMSE,0.000334,-
+Velocity Correlation,0.7568,-
+Inference Time (s),1.045,-
