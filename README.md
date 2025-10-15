@@ -1,9 +1,7 @@
 # MeshODENet: Neural ODE-based Graph Neural Network for Mesh Simulation
 
 A physics-based mesh simulation framework combining Graph Neural Networks with Neural ODEs for deformation modeling.
-We acknowledge the funding support from USDA Award No. 2024-67021-42526.
-
-The full paper is available at https://arxiv.org/abs/2509.18445
+We acknowledge the funding support from USDA Award No. 2024-67021-42526 and ABRC grant RFGA2024-022-013
 
 ## Project Structure
 
